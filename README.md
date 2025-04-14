@@ -146,7 +146,7 @@ $ > npx ws
 ```
 Paste `http://127.0.0.1:8000` in your browser.
 
-![View maps locally](./img/check_map.png)
+![View maps locally](https://raw.githubusercontent.com/btskinner/usa_territory_topojson/main/img/check_map.png)
 
 ## Using maps in other projects
 
